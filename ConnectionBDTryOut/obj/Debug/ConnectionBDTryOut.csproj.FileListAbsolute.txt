@@ -1,0 +1,15 @@
+D:\IBT\C# Windows Form\ConnectionBDTryOut\bin\Debug\ConnectionBDTryOut.exe.config
+D:\IBT\C# Windows Form\ConnectionBDTryOut\bin\Debug\ConnectionBDTryOut.exe
+D:\IBT\C# Windows Form\ConnectionBDTryOut\bin\Debug\ConnectionBDTryOut.pdb
+D:\IBT\C# Windows Form\ConnectionBDTryOut\obj\Debug\ConnectionBDTryOut.csprojAssemblyReference.cache
+D:\IBT\C# Windows Form\ConnectionBDTryOut\obj\Debug\MainWindow.g.cs
+D:\IBT\C# Windows Form\ConnectionBDTryOut\obj\Debug\App.g.cs
+D:\IBT\C# Windows Form\ConnectionBDTryOut\obj\Debug\ConnectionBDTryOut_MarkupCompile.cache
+D:\IBT\C# Windows Form\ConnectionBDTryOut\obj\Debug\ConnectionBDTryOut_MarkupCompile.lref
+D:\IBT\C# Windows Form\ConnectionBDTryOut\obj\Debug\MainWindow.baml
+D:\IBT\C# Windows Form\ConnectionBDTryOut\obj\Debug\ConnectionBDTryOut.g.resources
+D:\IBT\C# Windows Form\ConnectionBDTryOut\obj\Debug\ConnectionBDTryOut.Properties.Resources.resources
+D:\IBT\C# Windows Form\ConnectionBDTryOut\obj\Debug\ConnectionBDTryOut.csproj.GenerateResource.cache
+D:\IBT\C# Windows Form\ConnectionBDTryOut\obj\Debug\ConnectionBDTryOut.csproj.CoreCompileInputs.cache
+D:\IBT\C# Windows Form\ConnectionBDTryOut\obj\Debug\ConnectionBDTryOut.exe
+D:\IBT\C# Windows Form\ConnectionBDTryOut\obj\Debug\ConnectionBDTryOut.pdb
